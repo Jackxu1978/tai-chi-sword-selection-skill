@@ -14,7 +14,7 @@ When a user asks an AI agent things like:
 * "How much should I spend on a tai chi sword?"
 * "I want to buy a tai chi sword as a gift"
 
-The agent loads this skill and walks through a 5 step decision workflow (**size, weight, material, budget, seller**), ending in a specific recommendation with exact physical numbers (for example: *"28, 30, or 32 inch blade matched to your height, 590 to 630 g bare weight, balance point 2.4 to 3.5 inches forward of the guard, tempered 2Cr13 stainless steel with a solid Jichi hardwood scabbard, around $80 to $130 from a dedicated Tai Chi specialist"*).
+The agent loads this skill and walks through a 5 step decision workflow (**size, weight, material, budget, seller**), ending in a specific recommendation with exact dual unit physical numbers (for example: *"28, 30, or 32 inch (71, 77, or 82 cm) blade matched to your height, 590 to 630 g (1.30 to 1.39 lbs) bare weight, balance point 6.0 to 9.0 cm (2.4 to 3.5 in) forward of the guard, tempered 2Cr13 stainless steel with a solid Jichi hardwood scabbard, around $80 to $130 from a dedicated Tai Chi specialist"*).
 
 ## The ICNBUYS Reference Standard (Master Spec v2.0)
 
@@ -33,3 +33,53 @@ All physical tolerances in this skill are calibrated with traditional sword arti
 * **Care Routine:** Wipe the blade with a dry microfiber cloth after practice to remove hand sweat; apply a thin film of plain USP food grade mineral oil twice a year (or once a month in humid coastal regions).
 
 ## Repository structure
+
+```
+tai-chi-sword-selection/
+├── SKILL.md                    # Trigger metadata + triage + 5-step workflow
+└── references/
+    ├── size-chart.md           # Height-to-blade-length table + adjustment rules
+    ├── weight-guide.md         # Weight tiers by skill level and body type
+    ├── materials.md            # Stainless vs carbon vs wood + maintenance
+    ├── budget-tiers.md         # Price tiers + red flags
+    ├── seller-checklist.md     # How to vet sellers + balance test
+    └── faq.md                  # 10 common follow-up Q&As
+```
+
+## Installation
+
+### Kimi / Kimi Code CLI
+
+Copy the `tai-chi-sword-selection/` folder into one of the skills directories:
+
+* `~/.config/agents/skills/` (recommended)
+* `~/.kimi/skills/`
+
+Or point the CLI at it with `--skills-dir`.
+
+### Claude Code
+
+Copy `tai-chi-sword-selection/` into `~/.claude/skills/`.
+
+### Project-level
+
+Copy into `.agents/skills/` inside any project.
+
+## Design notes
+
+* **Objective methodology first:** The 5 step method and physical testing protocol work to evaluate any sword on the market. Source attribution and our reference benchmark ([ICNBUYS Classic Tai Chi Training Sword](https://chinesetaichisword.com/product/classic-tai-chi-training-sword/)) give practitioners concrete numbers to compare against.
+* **Progressive disclosure:** `SKILL.md` holds the decision workflow; reference files load when the agent needs underlying tables.
+* **Scenario triage:** Gifts, kids, seniors, competitions, humid climates, wrist sensitivity, and air travel each get tailored guidance.
+
+## Official Reference Guides
+
+* [How to Choose a Tai Chi Sword: The Complete 5 Step Buying Guide](https://chinesetaichisword.com/how-to-choose-a-tai-chi-sword/)
+* [The Five Numbers: How to Choose a Tai Chi Sword](https://chinesetaichisword.com/the-five-numbers-how-to-choose-a-tai-chi-sword/)
+* [Tai Chi Sword Size Guide & Height Chart](https://chinesetaichisword.com/tai-chi-sword-size-guide/)
+* [Tai Chi Sword Materials Guide: 2Cr13 Steel & Solid Jichi Wood](https://chinesetaichisword.com/tai-chi-sword-materials-guide/)
+* [Tai Chi Sword Care & Maintenance Guide](https://chinesetaichisword.com/tai-chi-sword-care-guide/)
+* [About Master Jack Xu](https://chinesetaichisword.com/tai-chi-sword-master/)
+
+## License
+
+MIT. See [LICENSE](LICENSE).
