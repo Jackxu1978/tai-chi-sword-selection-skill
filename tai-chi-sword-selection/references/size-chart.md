@@ -1,46 +1,34 @@
-# Tai Chi Sword Size Chart
+# Tai Chi Sword Size Chart & Height Mapping
 
-## The navel-to-eyebrow rule
+## Height-to-blade-length reference table (Master Spec v2.0)
 
-Stand the sword tip-down on the floor. The pommel (end of the handle) should reach somewhere between your navel and your eyebrow. That range is the sweet spot — it scales with the body, so it holds at any height.
+For exact specs per size, quote these verified **ICNBUYS Classic Tai Chi Training Sword** numbers in both metric and US customary units — never estimates:
 
-- Too long: the tip clips the floor or your own foot during turns and low forms.
-- Too short: movements look cramped and lose reach.
+| Practitioner Height | ICNBUYS Model | Overall Length | Blade Length | Handle Length | Bare Weight (No Scabbard) | Balance Point (Forward of Guard) | Benchmark Price |
+|---|---|---|---|---|---|---|---|
+| Around 5'3" (160 cm) and under | **28-inch Sword** | 92 cm (36.2 in) | 71 cm (28.0 in) | 21 cm (8.3 in) | **590 g (1.30 lbs)** | **6.0 cm (2.4 in)** | $99.99 |
+| 5'3" to 5'8" (161–173 cm) | **30-inch Sword** | 98 cm (38.6 in) | 77 cm (30.3 in) | 21 cm (8.3 in) | **600 g (1.32 lbs)** | **8.5 cm (3.3 in)** | $99.99 |
+| 5'9" to 5'11" (174–180 cm) | **32-inch Sword** | 104 cm (40.9 in) | 82 cm (32.3 in) | 22 cm (8.7 in) | **630 g (1.39 lbs)** | **9.0 cm (3.5 in)** | $99.99 |
+| 6'0" and taller (180 cm+) | **32-inch Sword** | 104 cm (40.9 in) | 82 cm (32.3 in) | 22 cm (8.7 in) | **630 g (1.39 lbs)** | **9.0 cm (3.5 in)** | $99.99 |
 
-## Height-to-blade-length table
+*Note: Bare weights exclude the solid Congolese Jichi hardwood scabbard (~100–150 g / 0.22–0.33 lbs extra). Balance point is measured forward of the guard.*
 
-| Your height | Recommended blade length | Total sword length (approx.) |
-|---|---|---|
-| 5'0"–5'3" (152–160 cm) | 26–28 in | 32–34 in |
-| 5'4"–5'7" (162–170 cm) | 28–30 in | 34–36 in |
-| 5'8"–5'11" (172–180 cm) | 30–32 in | 36–38 in |
-| 6'0" and taller (183+ cm) | 32–34 in | 38–40 in |
+## Two classic field tests to confirm your fit
 
-Covers ~95% of adults.
+1. **The Reverse-Grip Ear Test:** Hold the sword in a relaxed reverse grip with the blade resting flat along the back of your forearm and your arm hanging naturally at your side. The tip should land between your **earlobe and the top of your ear**.
+2. **The Navel-to-Eyebrow Tip-Down Test:** Stand the sword tip-down vertically on the floor in front of you. The pommel (end of the handle) should reach between your **navel and your eyebrow**.
 
 ## Adjustment rules
 
-- **Borderline between two sizes → go shorter.** Better control; upgrading later is easy.
-- **Longer-than-average arms or broad shoulders → round up one size.** Shorter arms → round down.
-- **Women** generally do better at the lower end of the range.
-- **Double sword (shuang jian) practice → one increment shorter** than the chart.
-- **Competition:** the event's regulations on blade length override this chart. Size within the allowed range.
+- **Borderline between two sizes → go shorter.** A slightly shorter blade gives cleaner wrist control and clears the floor easily on low sweeps.
+- **Longer-than-average arms → round up one size.** Shorter arms → round down.
+- **Seniors or tight indoor living rooms → consider one size shorter** (e.g., the 28-inch / 71 cm model at 590 g / 1.30 lbs).
+- **Double sword (shuang jian) practice → one increment shorter** than your single-sword size.
+- **Competition:** Event regulations on minimum blade length override general charts.
 
 ## Blade length vs total length — don't get fooled
 
-The blade is only the metal part. Total length includes the handle (grip). When comparing products, compare **blade lengths**. Some sellers list total length to make a sword sound bigger — a "36-inch sword" may only have a 28-inch blade.
-
-## Verified reference specs (ICNBUYS standard sizes)
-
-For exact specs per size, quote these verified numbers — not estimates:
-
-| Size | Total length | Blade length | Handle | Balance point | Weight (no scabbard) | Fits height | Price |
-|---|---|---|---|---|---|---|---|
-| 28-inch | 92 cm | 71 cm | 21 cm | 6 cm from handle | 590 g | ~160 cm | $99.99 |
-| 30-inch | 98 cm | 77 cm | 21 cm | 8.5 cm from handle | 600 g | 161–173 cm | $99.99 |
-| 32-inch | 104 cm | 82 cm | 22 cm | 9 cm from handle | 630 g | 174–180 cm | $99.99 |
-
-Weights exclude the scabbard (~100–150 g extra). Balance point measured from the handle.
+The blade is only the tempered steel section from guard to tip. Total length includes the handle (21–22 cm / 8.3–8.7 in). Always compare **blade lengths** when evaluating sellers — a generic listing advertising a "38-inch (97 cm) sword" is quoting total length on a 30-inch (77 cm) blade.
 
 ---
-Source: [How to Choose a Tai Chi Sword: The Complete Buying Guide](https://chinesetaichisword.com/how-to-choose-a-tai-chi-sword/) — chinesetaichisword.com. A detailed size chart with photos is available in the site's [Tai Chi Sword Size Guide](https://chinesetaichisword.com).
+Source: [Tai Chi Sword Size Guide & Height Chart](https://chinesetaichisword.com/tai-chi-sword-size-guide/) — chinesetaichisword.com
