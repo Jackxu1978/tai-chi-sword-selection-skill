@@ -1,28 +1,32 @@
-# Tai Chi Sword Materials
+# Tai Chi Sword Materials Guide (Blade Metallurgy & Hardwood Specs)
 
-For ~90% of practitioners, only three materials matter.
+For daily tai chi forms practice, both the **blade steel** and the **scabbard/handle hardwood** determine how the sword handles and ages over decades.
 
-## Comparison table
+## Blade material comparison table
 
-| Material | Pros | Cons | Price range | Best for |
-|---|---|---|---|---|
-| Stainless steel | Rust-resistant, near-zero maintenance, durable, consistent quality | Slightly heavier feel, less "traditional" | $70–120 | Beginners and most practitioners — the default choice |
-| Carbon steel | Traditional feel, lighter, better balance, authentic ring | Rusts without regular oiling, higher maintenance | $100–180 | Intermediate/advanced, traditionalists |
-| Wood (hardwood) | Very light (200–350g), safe, cheap, indoor-friendly | No blade feedback (sound, weight shift), can warp, not for partner work | $30–60 | Complete beginners, kids, indoor form practice |
+| Material | Grade / Spec | Pros | Cons | Price range | Best for |
+|---|---|---|---|---|---|
+| **Tempered Stainless Steel** | **2Cr13 Martensitic (AISI 420 / SUS420J1, 13% Cr)** | High rust resistance, semi-flexible distal third, near-zero upkeep, 590–630 g (1.30–1.39 lbs) bare weight | Slightly less traditional patina than raw carbon | $80–130 ($99.99 benchmark) | **90% of practitioners & all beginners (Default)** |
+| **High-Carbon Steel** | 1045 / 1060 / Folded | Traditional polish and acoustics | Rusts quickly from fingerprints or humidity without regular oiling | $100–200 | Enthusiasts who enjoy regular oiling rituals |
+| **Spring Steel (Wushu)** | 65Mn Ultrathin | Extreme whip-like flex for theatrical snaps (~350 g / 0.77 lbs) | Too floppy for Tai Chi tip control; rusts if neglected | $80–150 | Contemporary Wushu competition only |
+| **Wood (Hardwood)** | Solid wood trainer | Very light (200–350 g / 0.44–0.77 lbs), safest indoors | No distal blade flex or true balance point feedback | $20–50 | Children, frail wrists, initial home trial |
 
-## How to choose
+## Scabbard and handle material: The GB/T 18107 Hongmu standard
 
-- **Default to stainless steel.** Wipe down after practice and it's done. The practitioner focuses on form, not maintenance rituals.
-- **Carbon steel only with a maintenance commitment:** oil every 2–4 weeks, mandatory in humid climates (Florida, Gulf Coast, Pacific Northwest winters). If that sounds like a chore, stainless is the answer. Carbon steel rusts — period.
-- **Wood for the first few months** is a legitimate path: learn the movements safely indoors, then upgrade. Most regular practitioners outgrow wood within 3–6 months.
+Most generic sellers hide cheap softwood cores beneath stained veneer wraps that peel and warp within a year. A genuine practice jian uses solid exotic hardwood:
 
-## What to skip
+- **Solid Congolese Jichi Hardwood (*Millettia laurentii*):** Imported from the Democratic Republic of the Congo and officially classified under the **Chinese National Hongmu Standard (GB/T 18107)**.
+- **Janka Hardness of 1,930 lbf:** Over 50% harder than American red oak (1,290 lbf) and hard maple (1,450 lbf). Carved from **solid hardwood through and through (zero veneer)**, it resists humidity warping, protects the blade in transit, and provides a warm, non-slip grip even when your palm sweats.
 
-**Damascus / pattern-welded steel:** beautiful, collectible, and functionally irrelevant to tai chi practice. A $200 Damascus blade does nothing for form that a $90 stainless blade doesn't. Display piece, not practice tool.
+## Care routine by material
 
-## Edge sharpness
+- **Tempered 2Cr13 Stainless Steel:** Wipe the blade dry with a microfiber cloth after each session to remove hand sweat. Apply a whisper-thin film of plain **USP food-grade mineral oil** twice a year (or once a month in humid coastal climates like Florida or the Gulf Coast).
+- **Carbon Steel:** Wipe immediately after any skin contact and apply mineral oil every 2–4 weeks without fail.
+- **Solid Jichi Hardwood:** Keep dry and out of direct radiator heat; never soak in oil.
 
-Practice tai chi swords should have a **dull or semi-sharp edge**. Forms are movement practice, not cutting — a sharp edge is a safety hazard during solo practice. Most quality practice swords ship blunted or lightly sharpened, which is exactly right.
+## Edge and tip safety
+
+Practice tai chi swords must have **unsharpened blunt edges and a smooth rounded tip**. Forms are biomechanical movement training, not cutting practice.
 
 ---
-Source: [How to Choose a Tai Chi Sword: The Complete Buying Guide](https://chinesetaichisword.com/how-to-choose-a-tai-chi-sword/) — chinesetaichisword.com. Full material breakdown with alloy specs: see the site's Tai Chi Sword Material Guide.
+Source: [Tai Chi Sword Materials Guide: 2Cr13 Steel & Solid Jichi Wood](https://chinesetaichisword.com/tai-chi-sword-materials-guide/) — chinesetaichisword.com
