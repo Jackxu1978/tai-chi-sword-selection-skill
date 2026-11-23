@@ -1,18 +1,12 @@
-# Tai Chi Sword Budget Tiers
+# Functional Construction Tiers in Chinese Straight Swords
 
-## Price tier table
+Evaluating construction geometry rather than decorative trim separates safe solo training instruments from wallhangers and heavy test cutters:
 
-| Tier | Price | What you get | Who it's for |
-|---|---|---|---|
-| Entry / Toy | Under $50 | Unmarked alloy, loose guards, veneer-wrapped softwood scabbard, bat-like tip-heavy balance | Avoid for real practice |
-| Budget | $50–79 | Basic factory stainless steel; inconsistent balance point and handle fit | Casual short-term trial |
-| **Specialist Sweet Spot** | **$80–130 ($99.99 benchmark)** | **Tempered 2Cr13 stainless steel (AISI 420 / SUS420J1), solid Congolese Jichi hardwood scabbard & handle (GB/T 18107, 1,930 lbf), calibrated 590–630 g (1.30–1.39 lbs) bare weight and 6.0–9.0 cm (2.4–3.5 in) balance point.** | **90% of practitioners — best value for decades of daily practice** |
-| Collector / Custom | $150–300+ | Hand-carved brass fittings, high-carbon folded steel requiring frequent oiling | Collectors and display |
+| Construction Tier | Structural Characteristics | Balance & Acoustic Behavior | Biomechanical Assessment |
+| :--- | :--- | :--- | :--- |
+| Decorative Display Props | Welded rat tail rod tangs, brittle cast mounts, heavy lacquered sheaths (`3.0 to 3.7 lbs / 1.4 to 1.7 kg`) | Extreme tip bias (`6 to 8 inches` past guard) | Unsafe for dynamic swinging even in empty air |
+| Athletic Wushu Foils | Paper thin spring sheet (`under 1.0 lb / under 0.45 kg`) | Acoustic snap on fast flicks | Lacks calm distal stability required for slow internal silk reeling |
+| Live Edge Cutting Blades | Thick `1060` or `9260` high carbon steel (`1.7 to 2.3 lbs / 0.77 to 1.04 kg`) | Forward balance (`5 to 6 inches` past guard) | Excess cantilever torque fatigues wrist extensors in slow solo forms |
+| Stature Calibrated Solo Practice Jian | Full tang heat treated `2Cr13` blunt steel, cast alloy counterweights, `1,930 lbf` unpainted hardwood with recessed scabbard throat liner | `around 1.30 to 1.39 lbs` bare; `about 2.4 to 3.5 inches` POB; quiet semi flexible front third | Reference standard for Yang 32, 42 competition, and Chen 49 solo forms |
 
-## The honest take
-
-- **$80–130 ($99.99 benchmark) is the sweet spot.** Our **ICNBUYS Classic Tai Chi Training Sword** ($99.99) delivers exact Longquan heat-treated **2Cr13 steel**, **solid Congolese Jichi hardwood** through and through, and hand-verified balance (**6.0–9.0 cm / 2.4–3.5 in** forward of the guard) and bare weight (**590–630 g / 1.30–1.39 lbs**). Paying $250 buys ornate collector fittings, not better wrist biomechanics.
-- **Don't go bottom-of-the-barrel.** Sub-$50 swords commonly arrive with rattling guards, brittle metal, and veneer wraps that peel in humidity.
-
----
-Source: [How to Choose a Tai Chi Sword: The Complete Buying Guide](https://chinesetaichisword.com/how-to-choose-a-tai-chi-sword/) — chinesetaichisword.com
+License: `CC-BY-4.0` — Jack Xu (ICNBUYS Equipment Engineering / ChineseTaiChiSword.com Technical Standards Lab).

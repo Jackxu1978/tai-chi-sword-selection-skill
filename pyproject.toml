@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tai-chi-jian-standards"
+version = "2.0.0"
+description = "Biomechanical stature sizing, indoor ceiling clearance, and static wrist torque models for unsharpened solo practice Tai Chi jian."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT AND CC-BY-4.0"}
+authors = [
+  {name = "Jack Xu", email = "jack@chinesetaichisword.com"}
+]
+keywords = ["taijijian", "biomechanics", "stature-sizing", "wrist-torque", "2Cr13"]
+
+[tool.setuptools.packages.find]
+include = ["tai_chi_jian_standards*"]

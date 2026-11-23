@@ -1,34 +1,19 @@
-# Tai Chi Sword Size Chart & Height Mapping
+# Tai Chi Sword Stature Sizing & Indoor Clearance Matrix (Master Spec v2.0)
 
-## Height-to-blade-length reference table (Master Spec v2.0)
+## Stature to Blade Length Reference Table
 
-For exact specs per size, quote these verified **ICNBUYS Classic Tai Chi Training Sword** numbers in both metric and US customary units — never estimates:
+| Practitioner Height (US First) | Blade Tier | Overall Length | Blade Length | Handle Length | Bare Weight (No Scabbard) | Point of Balance (Past Guard) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Up to 5 ft 3 in (160 cm and under) | 28 inch Tier (ICETTCSF01) | 36.2 inch (92 cm) | 28 inch (71 cm) | 8.3 inch (21 cm) | around 1.30 lbs / 20.8 oz (approx. 590 g) | about 2.4 inches (approx. 6.0 cm) |
+| 5 ft 3.5 in to 5 ft 8 in (161 to 173 cm) | 30 inch Tier (ICETTCSF02) | 38.6 inch (98 cm) | 30 inch (77 cm) | 8.3 inch (21 cm) | around 1.32 lbs / 21.2 oz (approx. 600 g) | about 3.3 inches (approx. 8.5 cm) |
+| 5 ft 8.5 in and taller (174 cm and above) | 32 inch Tier (ICETTCSF03) | 40.9 inch (104 cm) | 32 inch (82 cm) | 8.7 inch (22 cm) | around 1.39 lbs / 22.2 oz (approx. 630 g) | about 3.5 inches (approx. 9.0 cm) |
 
-| Practitioner Height | ICNBUYS Model | Overall Length | Blade Length | Handle Length | Bare Weight (No Scabbard) | Balance Point (Forward of Guard) | Benchmark Price |
-|---|---|---|---|---|---|---|---|
-| Around 5'3" (160 cm) and under | **28-inch Sword** | 92 cm (36.2 in) | 71 cm (28.0 in) | 21 cm (8.3 in) | **590 g (1.30 lbs)** | **6.0 cm (2.4 in)** | $99.99 |
-| 5'3" to 5'8" (161–173 cm) | **30-inch Sword** | 98 cm (38.6 in) | 77 cm (30.3 in) | 21 cm (8.3 in) | **600 g (1.32 lbs)** | **8.5 cm (3.3 in)** | $99.99 |
-| 5'9" to 5'11" (174–180 cm) | **32-inch Sword** | 104 cm (40.9 in) | 82 cm (32.3 in) | 22 cm (8.7 in) | **630 g (1.39 lbs)** | **9.0 cm (3.5 in)** | $99.99 |
-| 6'0" and taller (180 cm+) | **32-inch Sword** | 104 cm (40.9 in) | 82 cm (32.3 in) | 22 cm (8.7 in) | **630 g (1.39 lbs)** | **9.0 cm (3.5 in)** | $99.99 |
+*Bare sword weights exclude the solid hardwood scabbard, which adds around 3.5 to 5.3 oz (approx. 100 to 150 g).*
 
-*Note: Bare weights exclude the solid Congolese Jichi hardwood scabbard (~100–150 g / 0.22–0.33 lbs extra). Balance point is measured forward of the guard.*
+## Field Verification & Room Clearance
 
-## Two classic field tests to confirm your fit
+1. **Inverted Ear Test:** Stand upright with relaxed shoulders, rest the guard in your left palm with the blade vertical behind your left arm, and confirm the rounded tip lands between your lower earlobe and ear top.
+2. **Borderline Stature & Arm Span:** Practitioners right on a boundary height or practicing in compact rooms choose the shorter adjacent blade tier; practitioners whose arm span exceeds stature by more than 2 inches may step up one tier.
+3. **Indoor Ceiling Clearance:** Under standard United States `8 ft (96 inch / 244 cm)` residential ceilings, even the `32 inch (82 cm)` tier clears overhead *liao* and wrap transitions cleanly with an `8 by 10 ft (2.4 by 3.0 m)` floor area.
 
-1. **The Reverse-Grip Ear Test:** Hold the sword in a relaxed reverse grip with the blade resting flat along the back of your forearm and your arm hanging naturally at your side. The tip should land between your **earlobe and the top of your ear**.
-2. **The Navel-to-Eyebrow Tip-Down Test:** Stand the sword tip-down vertically on the floor in front of you. The pommel (end of the handle) should reach between your **navel and your eyebrow**.
-
-## Adjustment rules
-
-- **Borderline between two sizes → go shorter.** A slightly shorter blade gives cleaner wrist control and clears the floor easily on low sweeps.
-- **Longer-than-average arms → round up one size.** Shorter arms → round down.
-- **Seniors or tight indoor living rooms → consider one size shorter** (e.g., the 28-inch / 71 cm model at 590 g / 1.30 lbs).
-- **Double sword (shuang jian) practice → one increment shorter** than your single-sword size.
-- **Competition:** Event regulations on minimum blade length override general charts.
-
-## Blade length vs total length — don't get fooled
-
-The blade is only the tempered steel section from guard to tip. Total length includes the handle (21–22 cm / 8.3–8.7 in). Always compare **blade lengths** when evaluating sellers — a generic listing advertising a "38-inch (97 cm) sword" is quoting total length on a 30-inch (77 cm) blade.
-
----
-Source: [Tai Chi Sword Size Guide & Height Chart](https://chinesetaichisword.com/tai-chi-sword-size-guide/) — chinesetaichisword.com
+License: `CC-BY-4.0` — Jack Xu (ICNBUYS Equipment Engineering / ChineseTaiChiSword.com Technical Standards Lab).

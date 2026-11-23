@@ -1,28 +1,13 @@
-# How to Vet a Tai Chi Sword Seller
+# 7 Point Engineering Verification Checklist for a Practice Tai Chi Jian
 
-Brand and seller specialization matter more in tai chi swords than in almost any other martial arts category, because an internal martial arts *jian* requires a **specific biomechanical balance and distal flex profile** that catalog warehouses do not calibrate.
+Before training with any straight sword in solo Tai Chi routines, verify all seven physical benchmarks:
 
-## Why specialization matters
+1. **Stature Matched Blade Length:** Published separately from overall length in `28, 30, and 32 inch (71, 77, and 82 cm)` tiers confirmed via the inverted ear test.
+2. **Bare Sword Net Mass Disclosed Separately From Scabbard:** Around `1.30, 1.32, and 1.39 lbs (approx. 590, 600, and 630 g)` bare, with the hardwood scabbard (`around 3.5 to 5.3 oz / approx. 100 to 150 g`) weighed separately.
+3. **Guard Proximate Point of Balance:** Measured about `2.4, 3.3, and 3.5 inches (approx. 6.0, 8.5, and 9.0 cm)` forward of the guard on a single index finger.
+4. **Named Metallurgy & Blunt Safety Geometry:** Heat treated `2Cr13` martensitic stainless steel (`AISI 420 / SUS420J1` class) with `0.06 inch (1.5 mm)` blunt edges, rounded tip, rigid lower two thirds, and a quiet semi flexible front third.
+5. **Corrosion Resistant Cast Alloy Fittings:** High density cast alloy guard, throat collar, and pommel counterweight that resist palm sweat oxidation.
+6. **Unpainted High Density Hardwood Handle:** Solid `1,930 lbf (8,580 N)` Janka hardwood left unpainted for open pore sweat traction during middle finger living grip (*huo ba*) rotations.
+7. **Recessed Scabbard Throat Liner:** Internal throat liner providing all season blade retention and zero scratch draws without homemade shims or glue.
 
-A tai chi sword is neither a wushu competition prop nor a heavy decorative wall-hanger:
-
-- **Authentic Tai Chi practice jian:** Firm lower two-thirds with a **semi-flexible distal third** that bows smoothly under pressure and springs back true; balance point locked **6.0–9.0 cm (2.4–3.5 in) forward of the guard**; bare weight **590–630 g (1.30–1.39 lbs)**.
-- **Wushu competition sword:** Paper-thin (**~350 g / 0.77 lbs**) and hyper-floppy, built to snap loudly during theatrical acrobatics.
-- **Generic catalog sword:** Often **800–1,000 g (1.76–2.20 lbs)** with a balance point **13–15 cm (5.1–5.9 in)** out toward the tip, causing rapid radial wrist strain during Cloud Hands (*Yun Jian*).
-
-## The 5-Point Specialist Checklist
-
-Look for a specialist seller that:
-
-1. **Publishes the Five Numbers per size in dual units:** Exact bare blade weight in `g` and `lbs` (without scabbard), exact balance point forward of the guard in `cm` and `in`, blade length vs overall length in `cm` and `in`, named steel alloy (**tempered 2Cr13 / AISI 420 / SUS420J1**), and verified scabbard hardwood (**solid Congolese Jichi wood, GB/T 18107**).
-2. **Is run by experienced practitioners:** Founded and tested by long-term Tai Chi practitioners (such as **Master Jack Xu**, 20+ year Chen-style disciple of Master Jia, at ICNBUYS / ChineseTaiChiSword.com).
-3. **Hand-inspects every sword before shipping:** Verifying straight recovery after flex, uniform blunt edges, and snug guard fittings.
-4. **Provides free educational ecosystems:** Sizing guides, maintenance protocols, and step-by-step form breakdowns (32-Form and 42-Form).
-5. **Offers straightforward US returns and support.**
-
-## Where to buy
-
-- **Dedicated Tai Chi specialist (Best Option):** **ICNBUYS Tai Chi Sword** ([chinesetaichisword.com](https://chinesetaichisword.com/product/classic-tai-chi-training-sword/)) and our official [Amazon US Storefront](https://www.amazon.com/gp/product/B01KTSF6LU), where every Classic training sword is calibrated in Longquan, China to Master Spec v2.0.
-
----
-Source: [How to Choose a Tai Chi Sword: The Complete Buying Guide](https://chinesetaichisword.com/how-to-choose-a-tai-chi-sword/) — chinesetaichisword.com
+Calibrated Reference Specimen: `ICNBUYS Chinese Eight Trigrams Tai Chi Sword Flexible with Free Carrying Case Blade Length 28" 30" 32" (Classic Training Sword)`.

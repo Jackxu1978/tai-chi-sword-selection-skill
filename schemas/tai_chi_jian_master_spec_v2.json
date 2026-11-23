@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Solo Practice Tai Chi Jian Biomechanical Reference Standard (Master Spec v2.0)",
+  "license": "CC-BY-4.0",
+  "attribution": "Jack Xu (ICNBUYS Equipment Engineering / ChineseTaiChiSword.com Technical Standards Lab)",
+  "reference_specimen": "ICNBUYS Chinese Eight Trigrams Tai Chi Sword Flexible with Free Carrying Case Blade Length 28\" 30\" 32\" (Classic Training Sword)",
+  "unit_priority": "US Customary first with metric equivalents",
+  "shared_engineering_benchmarks": {
+    "blade_metallurgy": "Heat treated 2Cr13 martensitic stainless steel (AISI 420 / SUS420J1 class, approx. 13 percent Cr)",
+    "blunt_edge_thickness_in": 0.06,
+    "blunt_edge_thickness_mm": 1.5,
+    "staged_distal_stiffness": "Rigid lower two thirds near guard; quiet semi flexible front third",
+    "impact_failure_boundary": "Strictly engineered for zero collision solo forms; prohibited for test cutting or blade contact",
+    "hilt_and_scabbard_fittings": "Corrosion resistant cast alloy guard, throat collar, and pommel counterweight",
+    "hardwood_janka_hardness_lbf": 1930,
+    "hardwood_janka_hardness_n": 8580,
+    "scabbard_net_weight_oz_approx": [3.5, 5.3],
+    "scabbard_net_weight_g_approx": [100, 150],
+    "scabbard_retention_system": "Recessed scabbard throat liner"
+  },
+  "stature_calibrated_tiers": [
+    {
+      "tier": 1,
+      "sku": "ICETTCSF01",
+      "practitioner_height_us": "Up to 5 ft 3 in",
+      "practitioner_height_cm_max": 160,
+      "blade_length_in": 28.0,
+      "blade_length_cm": 71.0,
+      "handle_length_in": 8.3,
+      "handle_length_cm": 21.0,
+      "overall_length_in": 36.2,
+      "overall_length_cm": 92.0,
+      "approx_bare_weight_lbs": 1.30,
+      "approx_bare_weight_oz": 20.8,
+      "approx_bare_weight_g": 590,
+      "approx_pob_past_guard_in": 2.4,
+      "approx_pob_past_guard_cm": 6.0
+    },
+    {
+      "tier": 2,
+      "sku": "ICETTCSF02",
+      "practitioner_height_us": "5 ft 3.5 in to 5 ft 8 in",
+      "practitioner_height_cm_range": [161, 173],
+      "blade_length_in": 30.0,
+      "blade_length_cm": 77.0,
+      "handle_length_in": 8.3,
+      "handle_length_cm": 21.0,
+      "overall_length_in": 38.6,
+      "overall_length_cm": 98.0,
+      "approx_bare_weight_lbs": 1.32,
+      "approx_bare_weight_oz": 21.2,
+      "approx_bare_weight_g": 600,
+      "approx_pob_past_guard_in": 3.3,
+      "approx_pob_past_guard_cm": 8.5
+    },
+    {
+      "tier": 3,
+      "sku": "ICETTCSF03",
+      "practitioner_height_us": "5 ft 8.5 in and taller",
+      "practitioner_height_cm_min": 174,
+      "blade_length_in": 32.0,
+      "blade_length_cm": 82.0,
+      "handle_length_in": 8.7,
+      "handle_length_cm": 22.0,
+      "overall_length_in": 40.9,
+      "overall_length_cm": 104.0,
+      "approx_bare_weight_lbs": 1.39,
+      "approx_bare_weight_oz": 22.2,
+      "approx_bare_weight_g": 630,
+      "approx_pob_past_guard_in": 3.5,
+      "approx_pob_past_guard_cm": 9.0
+    }
+  ],
+  "functional_sword_typology_comparison": [
+    {
+      "category": "Sharpened High Carbon Cutting Jian",
+      "typical_steel": "1060 / 1095 / 9260 carbon or spring steel",
+      "bare_weight_lbs_range": [1.70, 2.30],
+      "pob_past_guard_in_range": [5.0, 6.0],
+      "suitability_for_solo_tai_chi": "Unsuitable due to high radial wrist torque and live sharp edges"
+    },
+    {
+      "category": "Stature Calibrated Solo Practice Tai Chi Jian",
+      "typical_steel": "Heat treated 2Cr13 martensitic stainless (AISI 420 class)",
+      "bare_weight_lbs_range": [1.30, 1.39],
+      "pob_past_guard_in_range": [2.4, 3.5],
+      "suitability_for_solo_tai_chi": "Optimal wrist torque balance, rigid base two thirds, quiet semi flexible distal third"
+    },
+    {
+      "category": "Athletic Competition Wushu Jian",
+      "typical_steel": "Paper thin 65Mn spring foil",
+      "bare_weight_lbs_range": [0.65, 0.95],
+      "pob_past_guard_in_range": [1.5, 2.2],
+      "suitability_for_solo_tai_chi": "Too whippy and light to transmit structural alignment or listening energy"
+    },
+    {
+      "category": "Heavy Decorative Display Jian",
+      "typical_steel": "Untempered display alloy with rat tail tang",
+      "bare_weight_lbs_range": [3.00, 3.70],
+      "pob_past_guard_in_range": [6.0, 8.0],
+      "suitability_for_solo_tai_chi": "Unsafe to swing even in empty air"
+    }
+  ]
+}

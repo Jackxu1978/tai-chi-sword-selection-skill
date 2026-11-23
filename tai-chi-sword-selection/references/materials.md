@@ -1,32 +1,20 @@
-# Tai Chi Sword Materials Guide (Blade Metallurgy & Hardwood Specs)
+# Metallurgy, Cast Alloy Fittings, Hardwood & Throat Liner Specifications
 
-For daily tai chi forms practice, both the **blade steel** and the **scabbard/handle hardwood** determine how the sword handles and ages over decades.
+## 1. Blade Metallurgy & Mechanical Load Envelope
 
-## Blade material comparison table
+| Sword Category | Typical Alloy | Bare Mass Range | Mechanical Stiffness | Failure Boundary & Intended Load |
+| :--- | :--- | :--- | :--- | :--- |
+| Solo Practice Tai Chi Jian | Heat treated 2Cr13 martensitic stainless (AISI 420 / SUS420J1, ~13% Cr) | around 1.30 to 1.39 lbs (approx. 590 to 630 g) | Rigid lower two thirds; quiet semi flexible distal third | Strictly zero collision solo routines; resists sweat and morning dew; prohibited for test cutting |
+| High Carbon Cutting Jian | 1060 / 1095 / 9260 carbon spring steel | around 1.70 to 2.30 lbs (approx. 0.77 to 1.04 kg) | Stiff impact cross section with sharp edge | Built for tatami and bamboo cutting; rusts rapidly under palm sweat and overloads solo form wrists |
+| Competition Wushu Foil | Thin 65Mn spring foil | under 1.0 lb (under 0.45 kg) | Whippy paper thin tip that snaps audibly | Built for fast athletic flicks; lacks structural feedback for traditional Tai Chi alignment |
 
-| Material | Grade / Spec | Pros | Cons | Price range | Best for |
-|---|---|---|---|---|---|
-| **Tempered Stainless Steel** | **2Cr13 Martensitic (AISI 420 / SUS420J1, 13% Cr)** | High rust resistance, semi-flexible distal third, near-zero upkeep, 590–630 g (1.30–1.39 lbs) bare weight | Slightly less traditional patina than raw carbon | $80–130 ($99.99 benchmark) | **90% of practitioners & all beginners (Default)** |
-| **High-Carbon Steel** | 1045 / 1060 / Folded | Traditional polish and acoustics | Rusts quickly from fingerprints or humidity without regular oiling | $100–200 | Enthusiasts who enjoy regular oiling rituals |
-| **Spring Steel (Wushu)** | 65Mn Ultrathin | Extreme whip-like flex for theatrical snaps (~350 g / 0.77 lbs) | Too floppy for Tai Chi tip control; rusts if neglected | $80–150 | Contemporary Wushu competition only |
-| **Wood (Hardwood)** | Solid wood trainer | Very light (200–350 g / 0.44–0.77 lbs), safest indoors | No distal blade flex or true balance point feedback | $20–50 | Children, frail wrists, initial home trial |
+## 2. Corrosion Resistant Cast Alloy Counterweights
 
-## Scabbard and handle material: The GB/T 18107 Hongmu standard
+Unsealed yellow metal guards react with acidic palm sweat to form green oxidation stains on fingers and silk cords. High density **corrosion resistant cast alloy** guards (*hushou*), throat collars, and pommels provide exact rear counterweight mass, zero tang rattle, and tarnish free handling.
 
-Most generic sellers hide cheap softwood cores beneath stained veneer wraps that peel and warp within a year. A genuine practice jian uses solid exotic hardwood:
+## 3. Unpainted Dense Hardwood & Recessed Scabbard Throat Liner
 
-- **Solid Congolese Jichi Hardwood (*Millettia laurentii*):** Imported from the Democratic Republic of the Congo and officially classified under the **Chinese National Hongmu Standard (GB/T 18107)**.
-- **Janka Hardness of 1,930 lbf:** Over 50% harder than American red oak (1,290 lbf) and hard maple (1,450 lbf). Carved from **solid hardwood through and through (zero veneer)**, it resists humidity warping, protects the blade in transit, and provides a warm, non-slip grip even when your palm sweats.
+* **Solid Congolese Jichi Hardwood (*Millettia laurentii*):** Rated around `1,930 lbf (8,580 N)` Janka hardness and left unpainted so open wood pores maintain natural sweat traction without sticky tape.
+* **Recessed Scabbard Throat Liner:** Precision protective liner embedded inside the scabbard throat mouth stabilizes blade retention across dry heated United States winters and humid coastal summers while isolating the `2Cr13` blade flats from scratch contact.
 
-## Care routine by material
-
-- **Tempered 2Cr13 Stainless Steel:** Wipe the blade dry with a microfiber cloth after each session to remove hand sweat. Apply a whisper-thin film of plain **USP food-grade mineral oil** twice a year (or once a month in humid coastal climates like Florida or the Gulf Coast).
-- **Carbon Steel:** Wipe immediately after any skin contact and apply mineral oil every 2–4 weeks without fail.
-- **Solid Jichi Hardwood:** Keep dry and out of direct radiator heat; never soak in oil.
-
-## Edge and tip safety
-
-Practice tai chi swords must have **unsharpened blunt edges and a smooth rounded tip**. Forms are biomechanical movement training, not cutting practice.
-
----
-Source: [Tai Chi Sword Materials Guide: 2Cr13 Steel & Solid Jichi Wood](https://chinesetaichisword.com/tai-chi-sword-materials-guide/) — chinesetaichisword.com
+License: `CC-BY-4.0` — Jack Xu (ICNBUYS Equipment Engineering / ChineseTaiChiSword.com Technical Standards Lab).
